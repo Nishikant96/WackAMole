@@ -1,0 +1,32 @@
+.header{
+display:flex;
+flex-direction:row;
+flexbuild-style:relative;
+margin: 0 0 30px 0;
+justify-content:space-around;
+}
+.container{
+display:flex;
+flex-direction:row;
+flexbuild-style:relative;
+justify-content:center;
+}
+.Outlier{
+position: sticky;
+display: inline-block;
+}
+.item{
+
+border-style:solid;
+border-color:black;
+margin:2px;
+height:150px;
+width:150px;	
+background: url(https://www.appmachine.com/wp-content/uploads/2016/02/No-Branding-Header-Background-1.jpg);
+}
+
+Appear{
+background: url(https://img.123clipartpng.com/graphic-download-by-aznballer-on-deviantart-banner-freeuse-stock-mole-clipart-whack-a-mole-clipart-400_307.png);
+background-repeat: no-repeat;
+background-size: 100%;;label\
+}
